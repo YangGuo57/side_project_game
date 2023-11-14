@@ -49,18 +49,6 @@ document.addEventListener("keydown", (event) => {
       dir = event.key
       keyActive = false
     }
-
-    /*
-    if (dir === "ArrowUp" && event.key !== "ArrowDown") {
-        dir = event.key
-    } else if (dir === "ArrowDown" && event.key !== "ArrowUp") {
-        dir = event.key
-    } else if (dir === "ArrowLeft" && event.key !== "ArrowRight") {
-        dir = event.key
-    } else if (dir === "ArrowRight" && event.key !== "ArrowLeft") {
-        dir = event.key
-    }
-    */
   }
 })
 
