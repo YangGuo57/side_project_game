@@ -1,1 +1,1 @@
-# side_project_game
+# snake_game
